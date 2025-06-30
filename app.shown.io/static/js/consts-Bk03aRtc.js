@@ -1,0 +1,2 @@
+const i={az:"az",en:"us",de:"de",fr:"fr",es:"es",it:"it",ja:"jp",da:"dk",nl:"nl",fi:"fi",ko:"kr",no:"no",pt:"pt",sv:"se",zh_CN:"cn",zh_TW:"tw",ar:"ae",bg:"bg",cs:"cz",el:"gr",hi:"in",hu:"hu",id:"id",is:"is",iw:"il",lv:"lv",lt:"lt",pl:"pl",ru:"ru",ro:"ro",sk:"sk",sl:"si",sr:"sr",uk:"ua",tr:"tr",ca:"es",hr:"hr",vi:"vn",ur:"pk",tl:"ph",et:"ee",th:"th",bn:"bd",fa:"ir",ms:"my",ta:"in",te:"in"};export{i as l};
+//# sourceMappingURL=consts-Bk03aRtc.js.map

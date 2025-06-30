@@ -1,0 +1,1 @@
+chrome-extension://diimdfmlegodnjbcgajllidffehegdbc/rtl-init-check.js
