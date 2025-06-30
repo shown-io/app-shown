@@ -1,0 +1,2 @@
+import{o,r as i}from"./vendor-CqSKez46.js";import{s as a,p as n,aP as s,bH as e}from"./index-VnkSLCvX.js";const p=o.div.withConfig({displayName:"Container"})(["margin-right:auto;margin-left:auto;width:100%;"," "," "," ",""],({$pageContent:t})=>t&&i(["padding-bottom:",";"],a(5)),({$noSidebar:t})=>t&&i(["","{width:",";}","{width:",";}"],n(s),a(150),n(e),a(175)),({$fullHeight:t})=>t&&i(["height:100%;"]),({$centered:t})=>t&&i(["display:flex;align-items:center;justify-content:center;"]));export{p as C};
+//# sourceMappingURL=Container-hy6JMS2q.js.map

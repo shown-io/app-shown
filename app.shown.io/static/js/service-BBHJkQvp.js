@@ -1,0 +1,2 @@
+import{q as s}from"./vendor-CqSKez46.js";import{bW as e,bV as n}from"./index-VnkSLCvX.js";const i=r=>{const t=s.stringifyUrl({url:e.api.settings.languages,query:{q:r}});return n.get(t)},g=r=>{const t=s.stringifyUrl({url:e.api.settings.countries,query:{q:r}});return n.get(t)},u=()=>{const r=s.stringifyUrl({url:e.api.settings.currencies});return n.get(r)},c={getLanguages:i,getCountries:g,getCurrencies:u};export{c as s};
+//# sourceMappingURL=service-BBHJkQvp.js.map
